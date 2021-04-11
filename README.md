@@ -5,7 +5,8 @@ This will check the gender of a particular person by their image
 Here is the step that one must follow to run this program properly:-
 <ul type = "disk">
 <li> Install all the Necessary modules </li>
-    <ol typw = '1'>
-      <li> > - pip3 install tensorflow 
+    
+> pip3 install tensorflow 
+> pip3 install keras
+> pip3 install pandas
 
-</ul>
