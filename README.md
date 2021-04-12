@@ -28,12 +28,14 @@ Here is the step that one must follow to run this program properly:-
 <li> Mount your Google Drive with Google Colab before using it</li>
 <li> Run the section of importing all the necessary modules </li>
 <br>
-![run this](/images/run this.png)
+![run this](https://user-images.githubusercontent.com/72539289/114335487-7e231880-9b6a-11eb-8d69-57bc716bd02e.png)
+
 <br>
 <li> Now there is no need to create model once again just run the last two Sections:-</li>
-</ul><br>
-![now run both of these](/images/now run both of these.....png)
-<br><hr>
+<br>
+![now run both of these](https://user-images.githubusercontent.com/72539289/114335500-87ac8080-9b6a-11eb-9c5c-6abad5780b50.png)
+<br></ul>
+<hr>
 <H3>If there is any problem:</H3>
 <ol type ='i'>
 <li>Check the paths are valid or not</li>
