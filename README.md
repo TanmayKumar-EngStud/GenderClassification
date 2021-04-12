@@ -27,12 +27,13 @@ Here is the step that one must follow to run this program properly:-
 <li> Upload all the Folders on Google Drive (if You want to run the program on google colab) </li>
 <li> Mount your Google Drive with Google Colab before using it</li>
 <li> Run the section of importing all the necessary modules </li>
-![run this](/run this.png)
-<hr>
+<br>
+![run this](/images/run this.png)
+<br>
 <li> Now there is no need to create model once again just run the last two Sections:-</li>
-</ul>
-![now run both of these](/now run both of these.....png)
-<hr>
+</ul><br>
+![now run both of these](/images/now run both of these.....png)
+<br><hr>
 <H3>If there is any problem:</H3>
 <ol type ='i'>
 <li>Check the paths are valid or not</li>
