@@ -10,7 +10,10 @@ Here is the step that one must follow to run this program properly:-
 > pip3 install keras <br>
 > pip3 install pandas <br>
 - download all this complete folder:- <br>
-![Google Drive Folder](https://drive.google.com/drive/folders/1tF8WU0QUFyQcyUhkDOaEEONpgA0M4JC4?usp=sharing/)
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1tF8WU0QUFyQcyUhkDOaEEONpgA0M4JC4?usp=sharing)
+
+
 <br>This Folder Consists of all the necessary files related to this program
 <br>1. Dataset of men and women used to train this program</li>
     2. Logs which you can use to compare the on Tensorboard <br>
